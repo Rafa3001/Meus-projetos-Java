@@ -1,0 +1,13 @@
+package br.com.caelum.contas.main;
+
+class BalancoTrimestral {
+    public static void main(String[] args) {
+        int gastosJaneiro = 705;
+        int gastosFevereiro = 705;
+        int gastosMarco = 705;
+        int gastosTrimestre = gastosJaneiro + gastosFevereiro + gastosMarco;
+        System.out.println("Gastos do rafael em 3 meses: R$" + gastosTrimestre);
+        int mediaPorMes = gastosTrimestre / 3;
+        System.out.println("Média mensal de gasto do rafael: R$" + mediaPorMes);
+    }
+}
