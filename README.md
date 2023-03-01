@@ -1,2 +1,2 @@
 # Meus-projetos-Java
-estudos relacionado a linguagem (java)
+Estudos relacionado a linguagem (Java)
